@@ -58,6 +58,8 @@ This project, "Tankers," is a game developed using Pygame. Its primary purpose i
 
 This project is inspired by the desire to reinforce programming fundamentals through practical application. It also serves as a fun way to learn about game development and software design using Python and the Pygame library.
 
+Game Assets by Kenney Vleugels (Kenney.nl)
+
 ## Author
 
 - Bokang Makibinye
