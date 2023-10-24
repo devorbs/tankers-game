@@ -1,0 +1,20 @@
+# Constants
+
+# screen setup
+SCREEN_WIDTH = 1024
+SCREEN_HEIGHT = 576
+FPS = 60
+TILE_SIZE = 64
+
+# tank values
+NORMAL_TANK_SIZE = (40,40)
+TANK_TYPE_BLUE = "tank_blue"
+
+# colors
+WHITE = (255, 255, 255)
+GREEN = (0, 255, 0)
+RED = (255, 0, 0)
+
+# bullet values
+NORMAL_VERTICAL_BULLET_SIZE = (10, 20)
+NORMAL_HORIZONTAL_BULLET_SIZE = (20, 10)
